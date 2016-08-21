@@ -1,4 +1,4 @@
-# UDUK™ Audio Sprite
+# UDUK™ Acoustic Sprite
 Primarily use for automatic algorithmic composition.
 
 ## Structure
