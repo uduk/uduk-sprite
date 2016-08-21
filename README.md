@@ -1,5 +1,5 @@
 # UDUK™ Audio Sprite
-Primary use for automatic algorithmic compositino
+Primary use for automatic algorithmic composition
 
 ## Structure
 String / Fret Number
