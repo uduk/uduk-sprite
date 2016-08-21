@@ -7,8 +7,8 @@ String / Fret Number, where 0 indicates open string.
 ## Format
 MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
 
-## Demo
-(http://uduk.org/zzaj)
+## Demo - ZZ Ajje
+(http://uduk.org/zzaj) 
 
 "Banyak jalan yang lebih berirama"
 
