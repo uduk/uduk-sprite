@@ -13,6 +13,7 @@ MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
 ### Javascript source example
 
 ````
+  <script>
   var audioCtx;
   var bufferGlobal = new Array();
   var index = 0;
@@ -96,7 +97,7 @@ MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
     }
   
   }
-
+  </script>
 ````
 
 ## LICENSE
