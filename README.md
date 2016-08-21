@@ -8,7 +8,8 @@ String / Fret Number, where 0 indicates open string.
 MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
 
 ## Demo - ZZ Ajje
-(http://uduk.org/zzaj) 
+- (http://uduk.org/zzaj) 
+- (https://www.youtube.com/watch?v=3pPpIL7beNs)
 
 "Banyak jalan yang lebih berirama"
 
