@@ -1,5 +1,5 @@
 # UDUK™ Acoustic Sprite
-Primarily use for automatic algorithmic composition.
+Primarily use for UDUK automatic algorithmic composition.
 
 ## Structure
 String / Fret Number, where 0 indicates open string.
