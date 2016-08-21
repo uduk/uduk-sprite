@@ -66,7 +66,7 @@ MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
     var sixteenNote = (60 / tempo) / 4;
     var timeSignature = sixteenNote;
   
-    for (var bar = 0; bar < 220; bar++) {
+    for (var bar = 0; bar < 180; bar++) {
 
       var time = startTime + bar * 16 * timeSignature;
    
