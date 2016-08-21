@@ -15,7 +15,9 @@ MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, Monaural.
 
 ### Javascript source example
 
-Requirement: a running webserver.
+Requirement: 
+- a running webserver
+- Google Chrome browser
 
 ````
 <script>
