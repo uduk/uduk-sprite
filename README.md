@@ -1,4 +1,4 @@
-# UDUK™ Acoustic Sprite
+# UDUK™ Guitar Sprite
 Primarily use for UDUK automatic algorithmic composition.
 
 ## Structure
